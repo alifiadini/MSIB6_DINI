@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-size: 20px;
+  }
+.navigation {
+    background-color: #c34ee8;
+    color: #1f1212;
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navigation a {
+    color: #080303;
+    text-decoration: none;
+    margin: 0 15px;
+  }
+  .navigation a:hover {
+    text-decoration: underline;
+  }
